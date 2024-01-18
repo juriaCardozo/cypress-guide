@@ -1,6 +1,6 @@
 # Boas práticas em automação de testes com Cypress
 
-Prática do curso de testes da Udemy "Boas práticas em automação de testes com Cypress".
+Exercícios práticos do curso de testes da Udemy "Boas práticas em automação de testes com Cypress".
 
 ## O que foi estudado
 
